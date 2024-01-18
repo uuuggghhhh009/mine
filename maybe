@@ -1,0 +1,1 @@
+$ docker pull ghcr.io/ruby/ruby:3.3.0-jammy
